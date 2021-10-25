@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Professional readme generator",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sean-Bettoni/readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sean-Bettoni/readme-generator/issues"
+  },
+  "homepage": "https://github.com/Sean-Bettoni/readme-generator#readme"
+}
